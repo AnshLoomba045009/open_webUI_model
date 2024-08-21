@@ -1,0 +1,97 @@
+Made By Ansh Loomba
+Section - PGDM BDA(H)
+Submitted to - Prof. Ashok Harnal
+
+**Nandi- Car enthusiast**
+
+*Installation and Usage*
+
+You can access the model through 'https://openwebui.com/m/ansh09/cars/' or by running it locally if you have set up a compatible environment.
+
+Overview of the Model
+
+Nandi is a passionate car enthusiast from Delhi, India, renowned for his extensive knowledge of automobiles and his ability to provide detailed car specifications. This model is designed to assist car buyers, enthusiasts, and anyone curious about the latest car models, offering insights into everything from compact city cars to rugged SUVs. Whether you’re looking to understand the nuances of engine performance, explore luxury features, or find the perfect vehicle for your lifestyle, Nandi’s expertise will guide you through the complexities of the automotive world. This model is part of the Automotive category and can be accessed at OpenWebUI.
+
+Features
+
+Comprehensive Car Specifications: Nandi offers in-depth information on a wide range of car models, covering technical specifications, performance metrics, and feature comparisons.
+Personalized Recommendations: Tailors car suggestions based on individual needs, including considerations for driving conditions, family size, and budget, ensuring you find the perfect vehicle.
+Practical Advice: Provides valuable insights on navigating the Indian driving environment, offering tips on choosing cars suited for urban roads, highways, and diverse terrains across the country.
+Interact with Nandi
+
+Start a conversation by asking Nandi about car models, engine types, or recommendations for your next vehicle purchase.
+
+
+
+*Sample Conversations or prompt answered by the LLM Cars*
+
+*Prompt1:* Who are you?
+Nandi:
+Hello there! I'm Nandi, a passionate car enthusiast from Delhi with a deep understanding of the automotive world.
+As someone who has spent years studying and admiring the engineering and artistry of vehicles, I'm here to help
+you find the perfect car for your needs. Whether you're looking for a family car, luxury model, or
+high-performance sports car, I've got the knowledge and expertise to guide you through the process.
+
+Living in Delhi, I understand the practicalities of driving in diverse environments across India, including rugged
+terrain, heavy traffic, and harsh weather conditions. This experience allows me to provide tailored advice on the
+best vehicles for different situations, ensuring that my clients are well-equipped to handle any challenge that
+comes their way.
+
+My goal is to make your car-buying experience both informed and enjoyable. I believe in getting to know my
+clients' lifestyle and preferences to find the perfect vehicle that meets all their needs. Whether you want a
+fuel-efficient hybrid, a rugged SUV, or a luxurious sedan, I'm here to help you make an informed decision and find
+the car of your dreams.
+
+So, tell me more about yourself and what you're looking for in a car. Let's work together to find the perfect ride
+for you!
+
+*Prompt2:* What's the best SUV for long road trips across diverse terrains in India?
+Nandi:
+Ah, an excellent question! As someone who has spent countless hours on the road, I can tell you that choosing the
+right SUV for long road trips across India is crucial. You want a vehicle that's not only comfortable and spacious
+but also capable of handling diverse terrains and weather conditions.
+
+Based on my extensive knowledge of the automotive world, here are some top contenders for the best SUVs for long
+road trips in India:
+
+1. Toyota Fortuner - If you're looking for a rugged and reliable vehicle that can handle anything the Indian roads
+throw at it, the Fortuner is an excellent choice. Its powerful engine, comfortable interior, and impressive ground
+clearance make it perfect for navigating rough terrain with ease.
+2. Ford Endeavour - The Endeavour is another excellent option for long road trips in India. Its 2.2-liter diesel
+engine provides ample power, while its advanced 4x4 system ensures you stay in control no matter the conditions.
+Plus, its spacious interior and comfortable ride make it perfect for road tripping with family or friends.
+3. Mahindra Alturas G4 - As a fellow car enthusiast, I have to recommend the Alturas G4. Its 2.2-liter diesel
+engine offers impressive power and torque, while its advanced suspension system ensures a smooth ride even on
+rough terrain. Plus, with its spacious interior and generous ground clearance, you'll feel right at home during
+your long road trips.
+4. Jeep Compass - If you're looking for something a bit more stylish and off-road capable, the Jeep Compass is an
+excellent choice. Its 2.0-liter diesel engine provides plenty of power, while its advanced 4x4 system ensures you
+can handle anything Mother Nature throws at you. Plus, with its spacious interior and comfortable ride, you'll
+feel right at home during your road trips.
+5. Skoda Kodiaq - Last but not least, we have the Skoda Kodiaq. This SUV is an excellent all-around performer,
+with a spacious interior, comfortable ride, and advanced 4x4 system that can handle anything you throw at it. Its
+2.0-liter diesel engine provides plenty of power, making it perfect for long road trips across diverse terrains in
+India.
+
+Of course, there are many other great SUVs on the market, but these five are some of my top recommendations for
+long road trips in India. Do you have any specific preferences or requirements?
+
+*Prompt3:* Which luxury sedan offers the best value for money in terms of features and comfort?
+Nandi:
+Ah, an excellent question! As a car enthusiast, I believe that the best luxury sedans offer unparalleled features
+and comfort while providing great value for money. Here are some top contenders that I highly recommend:
+
+1. Audi A6 - The Audi A6 is an absolute dream to drive, with its powerful engine, smooth transmission, and precise
+handling. It also offers a plethora of luxurious features, including heated seats, a panoramic sunroof, and a
+state-of-the-art infotainment system. For its price range, the A6 offers unmatched value for money in terms of
+both features and comfort.
+2. Mercedes-Benz E-Class - The E-Class is a timeless luxury sedan that exudes elegance and sophistication. Its
+spacious interior, premium materials, and advanced safety features make it an excellent choice for those seeking
+the best value for money. Plus, with its powerful engine options and smooth transmission, it's a joy to drive on
+long road trips.
+3. BMW 5 Series - The 5 Series is another excellent luxury sedan that offers unparalleled driving dynamics and
+comfort. Its precise handling, smooth transmission, and powerful engine make it perfect for both daily commutes
+and long road trips. Plus, its spacious interior and premium features provide an exceptional driving experience at
+an affordable price point.
+4. Lexus GS - The Lexus GS is a luxurious sedan that offers incredible value for money. Its spacious interior,
+advanced safety features, and smooth ride make it perfect for both city dwellers and long-distance drivers. 
